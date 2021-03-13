@@ -1,0 +1,13 @@
+.DS_Store
+
+.settings
+.classpath
+.project
+
+.gradle
+gradle
+gradlew
+gradlew.bat
+
+bin
+build
